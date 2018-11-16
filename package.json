@@ -1,0 +1,63 @@
+{
+  "_from": "nodebb-widget-essentials@4.0.7",
+  "_id": "nodebb-widget-essentials@4.0.7",
+  "_inBundle": false,
+  "_integrity": "sha1-gipAxvx+4977FxHXtSsYk0svMZA=",
+  "_location": "/nodebb-widget-essentials",
+  "_phantomChildren": {},
+  "_requested": {
+    "escapedName": "nodebb-widget-essentials",
+    "fetchSpec": "4.0.7",
+    "name": "nodebb-widget-essentials",
+    "raw": "nodebb-widget-essentials@4.0.7",
+    "rawSpec": "4.0.7",
+    "registry": true,
+    "saveSpec": null,
+    "type": "version"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nodebb-widget-essentials/-/nodebb-widget-essentials-4.0.7.tgz",
+  "_shasum": "822a40c6fc7ee3defb1711d7b52b18934b2f3190",
+  "_spec": "nodebb-widget-essentials@4.0.7",
+  "_where": "/Users/graeme/Documents/workspace/prototypr-forum",
+  "author": {
+    "email": "psycho.bunny@hotmail.com",
+    "name": "psychobunny"
+  },
+  "bugs": {
+    "url": "https://github.com/psychobunny/nodebb-widget-essentials/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "NodeBB Essential Widgets",
+  "devDependencies": {},
+  "homepage": "https://github.com/psychobunny/nodebb-widget-essentials#readme",
+  "keywords": [
+    "nodebb",
+    "widget",
+    "essentials",
+    "markdown",
+    "text"
+  ],
+  "license": "BSD-2-Clause",
+  "main": "library.js",
+  "name": "nodebb-widget-essentials",
+  "nbbpm": {
+    "compatibility": "^1.7.0"
+  },
+  "optionalDependencies": {},
+  "readme": "# NodeBB Essential Widgets\r\n\r\nSeveral basic widgets bundled together in one package including 'HTML', 'Markdown', 'Active Users', 'Moderators', 'Forum Stats', 'Recent Topics', 'Categories', 'Popular Tags' and 'Recent Posts' widgets.\r\n\r\n## Installation\r\n\r\n    npm install nodebb-widget-essentials\r\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psychobunny/nodebb-widget-essentials.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "4.0.7"
+}
